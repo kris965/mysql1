@@ -1,2 +1,2 @@
-select count(*) from Track;
-select count(*) from Artist;
+SELECT * FROM Track 
+WHERE AlbumId = 348;
